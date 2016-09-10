@@ -1,0 +1,19 @@
+D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Semana 6\Listas vinculadas\bin\Debug\Listas vinculadas.exe.config
+D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Semana 6\Listas vinculadas\obj\Debug\Listas vinculadas.csprojResolveAssemblyReference.cache
+D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Semana 6\Listas vinculadas\bin\Debug\Listas vinculadas.exe
+D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Semana 6\Listas vinculadas\bin\Debug\Listas vinculadas.pdb
+D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Semana 6\Listas vinculadas\obj\Debug\Listas vinculadas.exe
+D:\Usuario\SasArtic\Documents\Programación\C# Visual Studio\Semana 6\Listas vinculadas\obj\Debug\Listas vinculadas.pdb
+D:\Usuario\SasArtic\Desktop\Semana 6\Listas vinculadas\bin\Debug\Listas vinculadas.exe.config
+C:\Users\USUARIO\Desktop\Semana 6\Listas vinculadas\bin\Debug\Listas vinculadas.exe.config
+C:\Users\USUARIO\Desktop\Semana 6\Listas vinculadas\bin\Debug\Listas vinculadas.exe
+C:\Users\USUARIO\Desktop\Semana 6\Listas vinculadas\bin\Debug\Listas vinculadas.pdb
+C:\Users\USUARIO\Desktop\Semana 6\Listas vinculadas\obj\Debug\Listas vinculadas.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Semana 6\Listas vinculadas\obj\Debug\Listas vinculadas.exe
+C:\Users\USUARIO\Desktop\Semana 6\Listas vinculadas\obj\Debug\Listas vinculadas.pdb
+C:\Users\USUARIO\Desktop\listas enlazadas\Listas vinculadas\bin\Debug\Listas vinculadas.exe.config
+C:\Users\USUARIO\Desktop\listas enlazadas\Listas vinculadas\bin\Debug\Listas vinculadas.exe
+C:\Users\USUARIO\Desktop\listas enlazadas\Listas vinculadas\bin\Debug\Listas vinculadas.pdb
+C:\Users\USUARIO\Desktop\listas enlazadas\Listas vinculadas\obj\Debug\Listas vinculadas.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\listas enlazadas\Listas vinculadas\obj\Debug\Listas vinculadas.exe
+C:\Users\USUARIO\Desktop\listas enlazadas\Listas vinculadas\obj\Debug\Listas vinculadas.pdb
